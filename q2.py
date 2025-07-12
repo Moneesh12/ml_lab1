@@ -1,4 +1,3 @@
-#for finding the range of a list
 def find_range(num):
     if len(num)<3:
         return "Range determination is not possible"#if number of elements less than 3 then print this
