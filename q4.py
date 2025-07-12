@@ -1,4 +1,3 @@
-#for finding the most repeated letter in a word
 word = "hippopatamus"
 
 l = list(word)#converts the word into a list of letters
