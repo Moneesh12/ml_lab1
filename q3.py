@@ -22,9 +22,10 @@ def matrix_power(A,p):
         row = []
         for j in range(n):
             if i==j:
-                row.append(1)#diagonal = 1
+                row.append(1)
             else:
-                row.append(0)#non diagonal = 0
+                row.append(0)
+                
         r.append(row)
     
     for _ in range(p):
