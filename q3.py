@@ -2,7 +2,7 @@
 
 #for finding A^p where A is a square matrix and p is the power
 def mul(mat1,mat2):
-    num = len(mat1)#number of rows = columns 
+    num = len(mat1)
     r = [[0]*num for _ in range(num)]#initially create a matrix with zeros so that we can use it for sum
     
     #we are using for loop to go over the row and columns
