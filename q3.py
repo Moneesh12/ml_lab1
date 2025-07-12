@@ -1,6 +1,4 @@
-
-
-#for finding A^p where A is a square matrix and p is the power
+#this function is for matrix multiplication
 def mul(mat1,mat2):
     num = len(mat1)
     r = [[0]*num for _ in range(num)]#initially create a matrix with zeros so that we can use it for sum
