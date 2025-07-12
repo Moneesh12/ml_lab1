@@ -1,4 +1,3 @@
-#finding the number of pairs in a list that can sum upto 10
 a = [2,7,4,1,3,6]
 count = 0#initially the number of pair count is 0
 
