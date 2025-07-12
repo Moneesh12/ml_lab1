@@ -1,5 +1,3 @@
-#for finding mean,median and mode
-
 #mean
 import random
 
