@@ -17,7 +17,7 @@ def mul(mat1,mat2):
 def matrix_power(A,p):
     #we are creatng identity matrix
     n = len(A)
-    r = []#empty list
+    r = []
     for i in range(n):
         row = []
         for j in range(n):
